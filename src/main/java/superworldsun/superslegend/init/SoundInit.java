@@ -26,9 +26,14 @@ public class SoundInit
     public static SoundEvent ARROW_HIT_ICE;
     public static SoundEvent ARROW_HIT_SHOCK;
     public static SoundEvent ARROW_HIT_ANCIENT;
+    public static SoundEvent BITBOW_ARROW;
     public static SoundEvent HOVER_BOOTS;
     public static SoundEvent BOOMERANG_FLY_LOOP;
     public static SoundEvent BOOMERANG_THROW;
+    public static SoundEvent BOMB_FUSE;
+    public static SoundEvent BOMB_DEFUSE;
+    public static SoundEvent FAIRY_BOTTLE_USE;
+    public static SoundEvent BOTTLE_POP;
 
     // Entities Mobs
     public static SoundEvent FAIRY_HEAL_ON_TOUCH;
